@@ -354,7 +354,7 @@ h4{
 .psql, .java, .python, .c{
     width: 16rem;
 }
-.sk, sk2{
+.sk, .sk2{
     margin-bottom: -4rem;
 }
 .sk0{
@@ -444,7 +444,7 @@ h4{
     color: #ffffff;
     padding-top: 2rem;
     padding-left: 2rem;
-    height: 58vh;
+    height: 60vh;
 }
 .f-contact{
     padding:1rem;
