@@ -266,6 +266,7 @@ h4{
 }
 .skills h2{
     text-align: center;
+    margin-left:35rem
 }
 .elementor-heading-title{
     display: inline-block;
@@ -620,9 +621,7 @@ h4{
         padding-bottom:1rem;
         font-size: 12pt;
     }
-    .skills h2{
-     margin-left:35rem;
-    } 
+   
      ._inline{
          display: flex;
          flex-direction: row;
