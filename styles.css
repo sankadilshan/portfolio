@@ -209,6 +209,7 @@ h4{
     font-weight: 800;
     text-transform: uppercase;
     box-sizing: border-box;
+    text-align:center;
 }
 .subtitle{
     padding-top: 2rem;
@@ -264,10 +265,7 @@ h4{
     padding-top: 2rem;
     padding-left: 1rem;
 }
-.skills h2{
-    text-align: center;
-    margin-left:35rem
-}
+
 .elementor-heading-title{
     display: inline-block;
    width: 18rem;
