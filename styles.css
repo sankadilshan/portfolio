@@ -167,6 +167,12 @@ h4{
     padding-bottom: 1rem;
     width: 31rem;
 }
+#tht{
+    color: white;
+    font-size: 12pt;
+    font-family: 'Times New Roman', Times, serif;
+
+}
 .btn.btn-warning{
     background-color:#FFC107 ;
     border: #FFC107;
@@ -350,8 +356,11 @@ h4{
     top: -6rem;
     padding-left: 30rem;  
 }
-.psql, .java, .python, .c{
-    width: 16rem;
+.psql, .java, .python{
+    width: 18rem;
+}
+c{
+    width: 20rem;
 }
 .sk, .sk2{
     margin-bottom: -4rem;
@@ -647,6 +656,14 @@ h4{
         top: 18px;
         right: 106px;
      }
+     .nd{
+        top: 19px;
+        left: -75px;
+     }
+     .nd1{
+        top: -6px;
+        width: 28rem;
+     }
      .b21{
         top: -7px; 
      }
@@ -747,7 +764,7 @@ h4{
         border-radius: 15px;
     }
     .skills h2{
-        margin-left: 35rem;
+        margin-left: 1rem;
     }
 }
 
